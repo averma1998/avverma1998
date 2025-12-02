@@ -48,5 +48,5 @@ Git, GitHub, VS Code, Google Colab
 ---
 
 ### 🤝 Connect With Me  
-- 💼 LinkedIn: *(add your link here)*  
-- 📧 Email: *(add email here)*  
+- 💼 LinkedIn: www.linkedin.com/in/ayush-verma-7a07b01b0  
+- 📧 Email: ayushjee2016@gmail.com 
